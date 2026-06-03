@@ -114,6 +114,8 @@ Projects that connect services, automate workflows, or react to events.
 
 - [nogueira-araujo/IReadThis.Recommender](https://github.com/nogueira-araujo/IReadThis.Recommender) `#️⃣` `🏠` – AI recomendation API totally developed in C# using the side-car pattern to acoplish into an existent legacy system. **by [@nogueira-araujo](https://github.com/nogueira-araujo)**
 
+- [mabittar/banking-llm](https://github.com/mabittar/banking-llm) `🐍` `☁️` `🔗` – Assistente conversacional inteligente para integração bancária, utilizando LangGraph para orquestração de fluxos com LLM. **by [@mabittar](https://github.com/mabittar)**
+
 ---
 
 ### 🛠️ Tools & Utilities
